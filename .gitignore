@@ -1,0 +1,10 @@
+venv
+.venv
+.claude
+app.log
+node_modules
+tests/
+__pycache__
+__init__.py
+.env
+.cache
